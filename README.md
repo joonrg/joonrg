@@ -20,9 +20,13 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 
+<h3 align="center">🛠Tools</h3>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joonrg)](https://github.com/joonrg/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joonrg)](https://github.com/joonrg/github-readme-stats)
+
+<a href="https://github.com/joonrg"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoonrg&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=F4C2C2&height=100&section=footer)
