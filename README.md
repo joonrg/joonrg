@@ -1,13 +1,13 @@
  
- ![header](https://capsule-render.vercel.app/api?type=soft&color=F4C2C2&height=80&section=header&text=Overcome%20Challenges%20Throws%20At%20You&fontSize=30)
+ ![header](https://capsule-render.vercel.app/api?type=soft&color=F4C2C2&height=80&section=header&text=Good%20Day!%20Overcome%20Challenges%20Throws%20At%20You&fontSize=30)
  
 <div align="center" >Hi there, Welcome to my github. </div>
 <div align="center" >I'm quit introvert but this personality leads me to concentrate and doing finely on my task.</div>
 
-<h4 align="center"> Cloud Software Developer</h4>
+<h4 align="center"> ☁Cloud Software Developer</h4>
 <div align="center" >Junior software enginner/web developer skilled in modern cloud tech.</div>
 
-<h4 align="center">Strength</h4>
+<h4 align="center">🏆Strength</h4>
 <div align="center" >Fast leaner</div>
 <div align="center" >Good at adapting to new challenges</div>
 <div align="center" >A supportive team player</div>
@@ -27,6 +27,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joonrg&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula)](https://github.com/joonrg/github-readme-stats)
 
 <a href="https://github.com/joonrg"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoonrg&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
+
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=F4C2C2&height=100&section=footer)
