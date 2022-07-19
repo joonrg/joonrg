@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="https://img.shields.io/badge/Redmine-B32024?style=flat-square&logo=Redmine&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
-<br>
+<br><br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joonrg&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula)](https://github.com/joonrg/github-readme-stats)
 
