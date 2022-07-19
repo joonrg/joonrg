@@ -25,7 +25,11 @@
 <img src="https://img.shields.io/badge/IIS-5E5E5E?style=flat-square&logo=Microsoft&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 
 <h3 align="center">🛠Leaning Language</h3>
-<img src="https://img.shields.io/badge/JAVA-FCC624?style=flat-square&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+
+ 
+<img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 <h3 align="center">🛠Tools</h3>
 <img src="https://img.shields.io/badge/Notepad++-90E59A?style=flat-square&logo=Notepad%2B%2B&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
@@ -33,6 +37,9 @@
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+
+<img src="https://img.shields.io/badge/Redmine-B32024?style=flat-square&logo=Redmine&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+
 
 
 <h3>&nbsp;</h3>
